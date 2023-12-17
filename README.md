@@ -58,6 +58,6 @@ Read [Google SMTP common issues](https://help.dreamhost.com/hc/en-us/articles/11
 
 
 
-<a href="https://www.buymeacoffee.com/ar7HQlZ" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-black.png" alt="Buy Me A Coffee" width=15% height=15%></a>
 
-<img src="https://github-pages-visitor.herokuapp.com/counterimg/githubDashboard_TMS" alt="" width="5"/>
+
+
